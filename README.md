@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Abby. Welcome to my Github.
-I'm currently studying Data Science at The University of Adelaide. <!--I'll receive my degree in December this year.-->
+I am a graduate of UoA. <!--I'll receive my degree in December this year.-->
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
